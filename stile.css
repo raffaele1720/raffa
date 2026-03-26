@@ -1,0 +1,92 @@
+  * {box-sizing: border-box;}
+  
+    body {
+     background-color:rgb(245, 240, 240);
+     margin: 0;
+     padding: 0%;
+     }   
+
+     .a{ margin-left:45%;
+        position:absolute;
+        margin-top:1%;
+         color:blue;
+         font-size:50px;
+         font-family:arial;
+          
+         text-transform: uppercase;
+         }
+
+         .b{ margin:45%;
+             position: absolute;
+             margin-top:5%;
+
+             width:200px;
+             height:30px;
+             border-radius:10px;
+             }
+
+              .c{ margin-left:45%;
+                  position:absolute;
+                  margin-top:10%;
+                  color:black;
+                  font-size:30px;
+                  font-family:arial;
+                  text-transform: capitalize;
+                    
+                 
+                  }
+  
+                  .d{ margin:45%;
+                      position: absolute;
+                      margin-top:13%;
+  
+                      width:200px;
+                      height:30px;
+                      border-radius:10px;
+                      }
+                    
+                     .e{ margin-left:45%;
+                         position:absolute;
+                         margin-top:18%;
+                         color:black;
+                         font-size:30px;
+                         font-family:arial;
+                         text-transform: capitalize;
+                         
+                         
+                          }
+  
+                          .f{ margin:45%;
+                              position: absolute;
+                              margin-top:21%;
+  
+                              width:200px;
+                              height:30px;
+                              border-radius:10px;
+                              }
+  
+                              .bottone1{ margin-left:45%;
+                                  position:absolute;
+                                  margin-top:25%;
+                                  width:100px;
+                                  height:30px;
+                                  border-radius:10px;
+                                  background-color:blue;
+                                  color:white;
+                                  font-size:20px;
+                                  font-family:arial;
+                                  }
+  
+                                  .bottone2{ margin-left:55%;
+                                      position:absolute;
+                                      margin-top:25%;
+                                      width:100px;
+                                      height:30px;
+                                      border-radius:10px;
+                                      background-color:red;
+                                      color:white;
+                                      font-size:20px;
+                                      font-family:arial; 
+                                      } 
+
+     
